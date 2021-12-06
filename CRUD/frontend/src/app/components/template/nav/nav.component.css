@@ -16,3 +16,7 @@
 .content {
   padding: 200px;
 }
+
+.mat-form-field .inputBox {
+  height: 1000px;
+}

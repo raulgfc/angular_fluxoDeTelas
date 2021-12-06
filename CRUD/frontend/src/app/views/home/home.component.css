@@ -1,3 +1,10 @@
-.home .title {
-  font-size: 3rem;
+.inputBox {
+  font-size: 1rem;
+  font-weight: 300;
+  line-height: 2;
+  align-items: center;
+}
+
+.material-icons {
+  padding-right: 10px;
 }
