@@ -1,0 +1,68 @@
+{
+  "usuarios": [
+    {
+      "idUser": 1,
+      "nome": "Raul Correa",
+      "usuario": "correar",
+      "senha": "0000"
+    },
+    {
+      "idUser": 2,
+      "nome": "Hamiltom Junior",
+      "usuario": "juniorH",
+      "senha": "0000"
+    },
+    {
+      "idUser": 3,
+      "nome": "Carmino Filho",
+      "usuario": "filhoc",
+      "senha": "0000"
+    }
+  ],
+
+  "alunos": [
+    {
+      "idUser": 1,
+      "idAluno": 11,
+      "nome": "Raul Correa",
+      "usuario": "correar"
+    }
+  ],
+
+  "turma": [
+    {
+      "idTurma": 1,
+      "nomeTurma": "Usabilidade Noturno",
+      "descricao": "Turma de usabilidade noturno",
+      "objetivo": "Turma de usabilidade noturno de quintas e sextas",
+      "idDiaSemana": 56
+    }
+  ],
+
+  "sala": [
+    {
+      "idSala": 1,
+      "nomeTurma": "Sala 1",
+      "idDiaSemana": 56
+    }
+  ],
+
+  "semana": [
+    {
+      "idDiaSemana": 1,
+      "nomeDiaSemana": "Segunda-Feira"
+    },
+    {
+      "idDiaSemana": 5,
+      "nomeDiaSemana": "Quinta-Feira"
+    },
+    {
+      "idDiaSemana": 6,
+      "nomeDiaSemana": "Sexta-Feira"
+    },
+    {
+      "idDiaSemana": 56,
+      "nomeDiaSemana": "Quintas e Sextas feiras"
+    }
+  ]
+}
