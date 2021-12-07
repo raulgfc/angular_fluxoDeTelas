@@ -19,7 +19,6 @@ import { MatCardModule } from '@angular/material/card';
 import { FormsModule } from '@angular/forms';
 import {MatButtonModule} from '@angular/material/button'; 
 import {MatInputModule} from '@angular/material/input';
-import { PaginaInicialComponent } from './views/pagina-inicial/pagina-inicial.component';
 
 
 
@@ -28,8 +27,8 @@ import { PaginaInicialComponent } from './views/pagina-inicial/pagina-inicial.co
     AppComponent,
     HeaderComponent,
     NavComponent,
-    HomeComponent,
-    PaginaInicialComponent,
+    HomeComponent
+
   ],
   imports: [
     BrowserModule,
