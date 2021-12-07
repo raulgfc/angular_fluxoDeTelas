@@ -1,10 +1,16 @@
+.home.component {
+  background-color: white;
+}
+
 .inputBox {
   font-size: 1rem;
   font-weight: 300;
   line-height: 2;
   align-items: center;
+  background-color: white;
 }
 
-.material-icons {
-  padding-right: 10px;
+.form {
+  background-color: white;
+  align-items: center;
 }
