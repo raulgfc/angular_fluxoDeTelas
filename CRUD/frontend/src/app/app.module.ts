@@ -19,6 +19,8 @@ import { MatCardModule } from '@angular/material/card';
 import { FormsModule } from '@angular/forms';
 import {MatButtonModule} from '@angular/material/button'; 
 import {MatInputModule} from '@angular/material/input';
+import { PagetwoComponent } from './views/pagetwo/pagetwo.component';
+
 
 
 
@@ -27,7 +29,8 @@ import {MatInputModule} from '@angular/material/input';
     AppComponent,
     HeaderComponent,
     NavComponent,
-    HomeComponent
+    HomeComponent,
+    PagetwoComponent
 
   ],
   imports: [
